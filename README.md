@@ -1,0 +1,1 @@
+This project will test my knowledge of HTML and CSS. I will be recreating a sample webpage that Odin Project has provided using what I've learned so far. I expect to be making use of my HTML and CSS, particularly flexboxes.
